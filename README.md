@@ -1,4 +1,3 @@
-
 <?php
 $nombre = "Gustavo Mendez";
 $edad = 21;
